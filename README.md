@@ -19,6 +19,6 @@ This is a fairly simple discord bot built with Discord JS that on command will p
 The following are the commands that can be run in Discord:
 
 - `/ping` responds with pong to test that the bot is up and running
-- `/map <location>` responds with a screenshot of the AP reporting for this location
+- `/map <location>` responds with a screenshot of the AP reporting for this location (this can be a bit slow)
   - locations are the two letter codes for states like `OH`, `VT`, or `DC`
   - to get the overall map use `US`
