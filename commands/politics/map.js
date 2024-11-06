@@ -3,7 +3,7 @@ const {
   EmbedBuilder,
   AttachmentBuilder,
 } = require("discord.js");
-const { Locations, getLocationData, getImage } = require("../../images");
+const { getLocationData, getImage } = require("../../images");
 
 module.exports = {
   data: new SlashCommandBuilder()
